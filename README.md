@@ -1,5 +1,5 @@
 
-![MasterHead](https://img.freepik.com/premium-vector/web-development-service-support-business-internet-advertising-landing-page-isometric-vector-illustration-programming-application-coding-e-commerce-digital-media-marketing-seo-optimization-technology_93487-1061.jpg?w=2000)
+
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">FrontEnd | React Developer</h3>
 <img align="right" alt="Coding" widht="400" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
