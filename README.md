@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">FrontEnd | React Developer</h3>
-<img align="center" alt="Coding" widht="400" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
+<img align="center" alt="Coding" widht="100%" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif">
 
 - 🌱 Ich arbeite als Entwickler von React FrontEnd Developer und lerne ständig neue Frameworks. Ich verfolge die neuesten Technologien.
 
